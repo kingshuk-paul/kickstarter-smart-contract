@@ -2,3 +2,4 @@ node_modules
 .next
 ethereum/build/Campaign.json
 ethereum/build/CampaignFactory.json
+.env
